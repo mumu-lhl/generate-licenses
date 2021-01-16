@@ -4,7 +4,7 @@
 
 ## 提交错误报告
 
-如果您在 generate-license 中发现了一个漏洞，请在 generate-license 仓库中的 [Issues](https://github.com/generate-license/issues) 中搜索，确认该漏洞没有被提交, 如果确认漏洞没有被提交可以创建一个新的 Issues。
+如果您在 generate-license 中发现了一个漏洞，请在 generate-license 仓库中的 [Issues](https://github.com/generate-licenses/issues) 中搜索，确认该漏洞没有被提交, 如果确认漏洞没有被提交可以创建一个新的 Issues。
 
 提交错误报告时应该详尽。
 

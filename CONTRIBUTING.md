@@ -4,7 +4,7 @@ No matter which of the following you do, you are contributing to generate-licens
 
 ## Submit bug reports
 
-If you find a vulnerability in the generate-license, please search in [Issues](https://github.com/generate-license/issues) in the generate-license repository to confirm that the vulnerability has not been submitted, if you confirm A new Issue can be created if the vulnerability has not been submitted.
+If you find a vulnerability in the generate-license, please search in [Issues](https://github.com/generate-licenses/issues) in the generate-license repository to confirm that the vulnerability has not been submitted, if you confirm A new Issue can be created if the vulnerability has not been submitted.
 
 It should be detailed when submitting an error report.
 
