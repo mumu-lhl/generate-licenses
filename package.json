@@ -1,19 +1,34 @@
 {
   "name": "generate-license",
-  "version": "0.0.1",
-  "private": true,
+  "version": "1.0.0",
   "bin": {
     "glicense": "./bin/generate-license.js"
   },
   "description": "Give open source projects a license!",
-  "author": "mumu-lhl <mumu-lhl@qq.com> (https://github.com/mumu-lhl)",
-  "license": "MIT",
+  "author": "mumu-lhl <mumu-lhl@qq.com>",
+  "keywords": [
+    "license",
+    "generate"
+  ],
+  "license": "GPL-3.0",
+  "bugs": "https://github.com/mumu-lhl/generate-license/issues",
+  "homepage": "https://github.com/mumu-lhl/generate-license/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mumu-lhl/generate-license.git"
+  },
   "dependencies": {
     "commander": "^6.2.1",
     "inquirer": "^7.3.3",
     "node-fetch": "^2.6.1"
   },
   "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0",
     "eslint": "^7.17.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
