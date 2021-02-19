@@ -2,8 +2,6 @@ English | [简体中文](/README_CN.md)
 
 README in English is translated by me using translation software, which may be inaccurate.
 
-It is recommended to use NPM 7 and 5 or above for installation in this project.
-
 This procedure has only been tested on Linux, not on Windows, MacOS and other systems.
 
 ## Get started quickly
@@ -127,6 +125,10 @@ If you want to contribute to generate-license, please see [contribution Guide](/
 
 ## donate
 
-Generate-license is a NodeJS project completed on my low-performance phone (using [Termux](https://github.com/termux)) because I forgot my computer password. Even if I think about it one day, my mother won't let me use it (my mother probably thinks computers are for playing games).
+![WeChat](https://7.dusays.com/2021/02/19/8a806d0c79fbc.png)
 
-At present, there is no channel to donate. I hope I can buy a computer through the donated money in the future.
+BTC: `3AdZgHmv5YC4wpZrF95JJvcGVQW33uAqrM`
+
+ETH: `0xf765Ad4dA201194BbBe779737c676D36D85aAAEf`
+
+BCH: `1Q3JVB5b6BC613VDb55mh3F1NUBJwhfBKW`                                                                                       LTC: `LV3GK72cGytc64Dpodp8v1XjvRKwM58tRp`

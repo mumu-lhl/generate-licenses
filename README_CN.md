@@ -1,7 +1,5 @@
 [English](/README.md) | 简体中文
 
-本程序建议使用 NPM 7 以下 5 以上的版本安装。
-
 本程序仅在 Linux 上测试过，未在 Windows、MacOS 等系统上测试过。
 
 ## 快速上手
@@ -125,6 +123,12 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 ## 捐献
 
-generate-license 是在我的低性能手机（使用 [Termux](https://github.com/termux)）上完成的 NodeJS 项目，因为我把我的电脑密码忘记了。即使哪天想起来了，我的母亲也不会让我使用（我的母亲大概认为电脑就是用来玩游戏的）。
+![WeChat](https://7.dusays.com/2021/02/19/8a806d0c79fbc.png)
 
-目前没有捐献的渠道，希望以后能通过被捐献的钱来买一台计算机吧。
+BTC: `3AdZgHmv5YC4wpZrF95JJvcGVQW33uAqrM`
+
+ETH: `0xf765Ad4dA201194BbBe779737c676D36D85aAAEf`
+
+BCH: `1Q3JVB5b6BC613VDb55mh3F1NUBJwhfBKW`
+
+LTC: `LV3GK72cGytc64Dpodp8v1XjvRKwM58tRp`
