@@ -9,11 +9,11 @@
 使用 Yarn 或 NPM 全局安装 generate-license：
 
 ```bash
-npm i -g generate-license
+npm i -g generate-licenses
 
 # 或
 
-yarn global add generate
+yarn global add generate-licenses
 ```
 
 当然也可以安装在一个项目中（安装在一个项目中的可能性不大）。

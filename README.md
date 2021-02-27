@@ -11,11 +11,11 @@ This procedure has only been tested on Linux, not on Windows, MacOS and other sy
 Global installation of generate-license using Yarn or NPM:
 
 ```bash
-npm i -g generate-license
+npm i -g generate-licenses
 
 # or
 
-yarn global add generate
+yarn global add generate-licenses
 ```
 
 Of course, it can also be installed in a project (it is unlikely to be installed in a project).
