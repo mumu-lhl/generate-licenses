@@ -126,9 +126,3 @@ If you want to contribute to generate-license, please see [contribution Guide](/
 ## donate
 
 ![WeChat](https://7.dusays.com/2021/02/19/8a806d0c79fbc.png)
-
-BTC: `3AdZgHmv5YC4wpZrF95JJvcGVQW33uAqrM`
-
-ETH: `0xf765Ad4dA201194BbBe779737c676D36D85aAAEf`
-
-BCH: `1Q3JVB5b6BC613VDb55mh3F1NUBJwhfBKW`                                                                                       LTC: `LV3GK72cGytc64Dpodp8v1XjvRKwM58tRp`
