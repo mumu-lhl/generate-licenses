@@ -18,13 +18,13 @@
     "url": "https://github.com/mumu-lhl/generate-licenses.git"
   },
   "dependencies": {
-    "commander": "^7.1.0",
-    "inquirer": "^7.3.3",
+    "commander": "^7.2.0",
+    "inquirer": "^8.1.0",
     "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "cz-conventional-changelog": "^3.3.0",
-    "eslint": "^7.20.0"
+    "eslint": "^7.27.0"
   },
   "config": {
     "commitizen": {
