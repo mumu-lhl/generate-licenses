@@ -1,6 +1,6 @@
 {
   "name": "generate-licenses",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "bin": {
     "glicense": "./bin/generate-licenses.js"
   },
