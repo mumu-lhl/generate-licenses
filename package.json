@@ -1,6 +1,6 @@
 {
   "name": "generate-licenses",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "bin": {
     "glicense": "./bin/generate-licenses.js"
   },
@@ -23,12 +23,6 @@
     "node-fetch": "^2.6.1"
   },
   "devDependencies": {
-    "cz-conventional-changelog": "^3.3.0",
     "eslint": "^7.27.0"
-  },
-  "config": {
-    "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
-    }
   }
 }
